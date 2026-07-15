@@ -1,0 +1,23 @@
+# API Keys and Secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build
+dist/
+build/
+coverage/
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
